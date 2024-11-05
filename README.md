@@ -39,16 +39,16 @@ cd evaluation-report-template-typst
   lang: "en",
   grade_suggestion: 1.7,
 )
-= Themenstellung & Ziele
+= Objectives and Goals
 #lorem(100)
 
-= Stärken der Arbeit
+= Strengths of the Work
 #lorem(200)
 
-= Schwächen der Arbeit
+= Weaknesses of the Work
 #lorem(200)
 
-= Zusammenfassung
+= Summary
 #lorem(100)
 ```
 
