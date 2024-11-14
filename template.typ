@@ -1,15 +1,15 @@
 #import "@preview/oxifmt:0.2.1": strfmt
 
-#let i18n_title = (de: "Gutachten", en: "Review Report")
+#let i18n_title = (de: "Gutachten", en: "Evaluation Report")
 #let i18n_topic = (de: "Thema", en: "Topic")
 #let i18n_worked_on = (de: "Bearbeitet von", en: "Worked on by")
 #let i18n_supervised_by = (de: "Betreut von", en: "Supervised by")
 #let i18n_handin_date = (de: "Abgabedatum", en: "Hand-in date")
 
 #let i18n_time_date = (de: "Ort und Datum", en: "Time and Date")
-#let i18n_grade_suggestions = (de: "Notenvorschlag", en: "Grade Suggestions")
+#let i18n_grade_suggestions = (de: "Notenvorschlag", en: "Grade Suggestion")
 
-#let gutachten(
+#let evaluation_report(
   title: "", 
   type: "Bachelorarbeit",
   authors: (), 
